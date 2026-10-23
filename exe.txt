@@ -1,0 +1,2 @@
+pyinstaller --noconsole --onefile --clean --name="ExcelMerger" --hidden-import=calamine --hidden-import=openpyxl --hidden-import=xlrd excel_csv_merger_gui_Version4.py
+pyinstaller --noconsole --onefile --clean --name="ExcelMerger" --hidden-import=calamine --hidden-import=openpyxl --hidden-import=xlrd excel_csv_merger_gui_Version5.py
